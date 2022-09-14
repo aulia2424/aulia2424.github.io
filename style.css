@@ -1,5 +1,6 @@
 nav {
-  background-color: #b5deff;
+  background-color: #bface0;
+  box-shadow: 2px 4px 5px #413f42;
 }
 
 .img1 {
@@ -7,7 +8,7 @@ nav {
 }
 
 .intro {
-  color: #1b2021;
+  color: #fff;
 }
 .navbar li a {
   text-align: left;
@@ -18,11 +19,12 @@ body {
 }
 .jumbotron {
   padding-top: 7rem;
-  background-color: #e8f6ef;
+  background-color: #bface0;
+  color: #fff;
 }
 
 #downloadcv {
-  background-color: #e8f6ef;
+  background-color: #bface0;
 }
 
 .mysocialmedia img {
@@ -30,9 +32,39 @@ body {
 }
 
 footer {
-  background-color: #b5deff;
+  background-color: #bface0;
+}
+
+footer a {
+  text-decoration: none;
 }
 
 section {
   padding-top: 8rem;
+}
+
+.bi-instagram {
+  color: #f9f9f9;
+}
+
+.bi-facebook {
+  color: #f9f9f9;
+}
+
+.bi-github {
+  color: #f9f9f9;
+}
+
+.bi-youtube {
+  color: #f9f9f9;
+}
+
+.btn {
+  background-color: #bface0;
+  color: #ffff;
+}
+
+.btn:hover {
+  background-color: #ebc7e8;
+  color: #ffff;
 }
